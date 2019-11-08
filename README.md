@@ -1,2 +1,1 @@
-# ml-ai
-Scratching my ml+ai itch
+# ML and AI table
